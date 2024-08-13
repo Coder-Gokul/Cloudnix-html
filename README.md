@@ -1,7 +1,7 @@
 <body>
-  <h1>HTML Website</h1>
+  <h1>Exercise</h1>
   <center><h3>Desktop View</h3></center>
-<img src="Exercise.jpg">
-  <center><h3>Mobile View</h3></center>
-  <img src="output.jpg">
+<img src="Exercise.png">
+  <center><h3>Output</h3></center>
+  <img src="output.png">
 </body>     
